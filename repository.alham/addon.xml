@@ -2,7 +2,7 @@
     <extension point="xbmc.addon.repository">
         <info compressed="false">https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/addon.xml</info>
         <checksum>https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/addons.xml</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/</datadir>
+        <datadir zip="true">https://github.com/alham0046/plugin.video.hometheater1/tree/master</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Alham's Kodi Addon Repository</summary>
