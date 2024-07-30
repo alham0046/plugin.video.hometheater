@@ -1,0 +1,15 @@
+<addon id="repository.alham" name="Alham's Repository" version="1.0.0" provider-name="Alham">
+    <extension point="xbmc.addon.repository">
+        <info compressed="false">https://github.com/alham0046/plugin.video.hometheater/addons.xml</info>
+        <checksum>https://github.com/alham0046/plugin.video.hometheater/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/alham0046/plugin.video.hometheater/raw/main/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>John Doe's Kodi Addon Repository</summary>
+        <description>This is a repository for John Doe's Kodi addons.</description>
+        <platform>all</platform>
+        <license>GPL-2.0</license>
+        <source>https://github.com/alham0046/plugin.video.hometheater</source>
+        <email>you@example.com</email>
+    </extension>
+</addon>
