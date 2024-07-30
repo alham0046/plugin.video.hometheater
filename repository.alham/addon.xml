@@ -1,15 +1,15 @@
 <addon id="repository.alham" name="Alham's Repository" version="1.0.0" provider-name="Alham">
     <extension point="xbmc.addon.repository">
-        <info compressed="false">https://github.com/alham0046/plugin.video.hometheater/blob/master/addons.xml?raw=true</info>
-        <checksum>https://github.com/alham0046/plugin.video.hometheater/blob/master/addons.xml.md5?raw=true</checksum>
-        <datadir zip="true">https://github.com/alham0046/plugin.video.hometheater/blob/master?raw=true</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/addon.xml</info>
+        <checksum>https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/addons.xml</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/alham0046/plugin.video.hometheater1/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Alham's Kodi Addon Repository</summary>
         <description>This is a repository for Alham's Kodi addons.</description>
         <platform>all</platform>
         <license>GPL-2.0</license>
-        <source>https://github.com/alham0046/plugin.video.hometheater</source>
+        <source>https://github.com/alham0046/plugin.video.hometheater1</source>
         <email>alham.kota@gmail.com</email>
     </extension>
 </addon>
